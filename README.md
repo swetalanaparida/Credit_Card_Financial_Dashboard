@@ -4,6 +4,7 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 ________________________________________
 📂 Dataset
 •	Type: Financial Dataset
+
 •	Contents: Customer profiles, transaction details, card types, revenue data, demographic information, and geographic location.
 ________________________________________
 ⚙️ Tools & Technologies
